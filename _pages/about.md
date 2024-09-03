@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Assistant Professor at <a href='https://www.uaeu.ac.ae/en/'>United Arab Emirates University (UAEU)</a>, Al Ain, Abu Dhabi, UAE
 
