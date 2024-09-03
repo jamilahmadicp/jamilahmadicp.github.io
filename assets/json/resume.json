@@ -9,7 +9,7 @@
     "summary": "An enthusiastic computer vision researcher",
     "location": {
       "address": "Department of CSSE",
-      "postalCode": "Al Ain 15551",
+      "postalCode": "00000",
       "city": "Al Ain",
       "countryCode": "UAE",
       "region": "United Arab Emirates"
@@ -32,9 +32,7 @@
       "summary": "Teaching, supervising research, adivising students, and conduct research and development at the Department of Computer Science & Software Engineering.",
       "highlights": [
         "Deep Learning",
-        "Computer Vision",
-        "Machine Learning",
-        "Artificial Intelligence"
+        "Computer Vision"
       ]
     },
 
@@ -48,7 +46,8 @@
       "highlights": [
         "Deep Learning",
         "Computer Vision",
-        "Precision Agriculture"
+        "Precision Agriculture",
+        "Vision/Language Models"
       ]
     },
 
@@ -61,8 +60,8 @@
       "summary": "Teaching to BS, Masters, and Ph.D. students, research supervision, acquiring funds for R&D activities, administrative duties within the department",
       "highlights": [
         "Teaching",
-        "Advising",
-        "Research"
+        "Research",
+        "Advising"
       ]
     },
 
@@ -75,8 +74,8 @@
       "summary": "Teaching to BS, Masters, and Ph.D. students, research supervision, acquiring funds for R&D activities, administrative duties within the department",
       "highlights": [
         "Teaching",
-        "Advising",
-        "Research"
+        "Research",
+        "Advising"
       ]
     }
 
@@ -115,10 +114,17 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Fully Funded Scholarship for PhD",
+      "date": "2015-03-02",
+      "awarder": "Sejong University, Seoul, South Korea",
+      "summary": "Awarded annually based on academic and research performance"
+    },
+
+    {
+      "title": "Fee Waiver Merit Scholarship",
+      "date": "2004-01-01",
+      "awarder": "Islamia College Peshawar, Pakistan",
+      "summary": "Awarded to top 5 students based on academic performance"
     }
   ],
   "certificates": [],
