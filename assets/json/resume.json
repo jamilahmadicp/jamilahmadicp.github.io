@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jamil Ahmad",
-    "position": "Researcher/Academic",
+    "position": "Researcher-Academic",
     "image": "/assets/img/prof_pic.jpg",
     "email": "jamil.ahmad@uaeu.ac.ae",
     "phone": "(+971) 03 713 5592",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "United Arab Emirates University",
-      "position": "Researcher/Academic",
+      "position": "Researcher-Academic",
       "url": "https://www.uaeu.ac.ae",
       "startDate": "2024-08-12",
       "endDate": "",
