@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jamil Ahmad",
-    "position": "Assistant Professor",
+    "position": "Researcher/Academic",
     "image": "/assets/img/prof_pic.jpg",
     "email": "jamil.ahmad@uaeu.ac.ae",
     "phone": "(+971) 03 713 5592",
@@ -25,11 +25,11 @@
   "work": [
     {
       "name": "United Arab Emirates University",
-      "position": "Assistant Professor",
+      "position": "Researcher/Academic",
       "url": "https://www.uaeu.ac.ae",
       "startDate": "2024-08-12",
       "endDate": "",
-      "summary": "Teaching, supervising research, adivising students, and conduct research and development at the Department of Computer Science & Software Engineering.",
+      "summary": "Mentoring, supervising research, advising students, and conducting research and development at the Department of Computer Science & Software Engineering.",
       "highlights": [
         "Deep Learning",
         "Computer Vision"
@@ -53,7 +53,7 @@
 
     {
       "name": "Islamia College Peshawar, Pakistan",
-      "position": "Assistant Professor",
+      "position": "Assistant Professor (On Leave)",
       "url": "https://www.icp.edu.pk",
       "startDate": "2023-07-12",
       "endDate": "2023-07-31",
